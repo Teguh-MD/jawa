@@ -1,4 +1,11 @@
 {
+  "name": "TEGUH-MD GAGS", // Kamu bisa ganti ini dengan nama proyek kamu
+  "version": "1.0.0",
+  "description": "aku jawa",
+  "main": "server.js", // Ini penting! Pastikan nama filenya benar
+  "scripts": {
+    "start": "node server.js" // Ini juga penting!
+  },
   "dependencies": {
     "blessed": "^0.1.81",
     "express": "^5.1.0"
